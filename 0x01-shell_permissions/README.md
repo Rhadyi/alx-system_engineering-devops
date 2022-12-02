@@ -1,1 +1,1 @@
-Shell permisions
+This is a directory for all the commands on shell permissions
